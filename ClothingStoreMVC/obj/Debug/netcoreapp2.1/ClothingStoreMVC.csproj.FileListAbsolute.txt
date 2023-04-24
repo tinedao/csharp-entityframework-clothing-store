@@ -35,6 +35,7 @@ C:\Users\tined\source\repos\ClothingStoreMVC\ClothingStoreMVC\obj\Debug\netcorea
 C:\Users\tined\source\repos\ClothingStoreMVC\ClothingStoreMVC\obj\Debug\netcoreapp2.1\ClothingStoreMVC.csproj.CopyComplete
 C:\Users\tined\work space\csharp-entityframework-clothing-store\ClothingStoreMVC\bin\Debug\netcoreapp2.1\appsettings.Development.json
 C:\Users\tined\work space\csharp-entityframework-clothing-store\ClothingStoreMVC\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\tined\work space\csharp-entityframework-clothing-store\ClothingStoreMVC\bin\Debug\netcoreapp2.1\Areas\Admin\lib\fontawesome-free\package.json
 C:\Users\tined\work space\csharp-entityframework-clothing-store\ClothingStoreMVC\bin\Debug\netcoreapp2.1\bundleconfig.json
 C:\Users\tined\work space\csharp-entityframework-clothing-store\ClothingStoreMVC\bin\Debug\netcoreapp2.1\ClothingStoreMVC.deps.json
 C:\Users\tined\work space\csharp-entityframework-clothing-store\ClothingStoreMVC\bin\Debug\netcoreapp2.1\ClothingStoreMVC.runtimeconfig.json
@@ -53,6 +54,11 @@ C:\Users\tined\work space\csharp-entityframework-clothing-store\ClothingStoreMVC
 C:\Users\tined\work space\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\ClothingStoreMVC.TagHelpers.input.cache
 C:\Users\tined\work space\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\ClothingStoreMVC.TagHelpers.output.cache
 C:\Users\tined\work space\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\ClothingStoreMVC.RazorCoreGenerate.cache
+C:\Users\tined\work space\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
+C:\Users\tined\work space\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Delete.cshtml.g.cs
+C:\Users\tined\work space\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Details.cshtml.g.cs
+C:\Users\tined\work space\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
+C:\Users\tined\work space\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
 C:\Users\tined\work space\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
 C:\Users\tined\work space\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
 C:\Users\tined\work space\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs

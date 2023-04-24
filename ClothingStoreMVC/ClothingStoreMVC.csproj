@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <Content Remove="Areas\Admin\Views\layout\_LayoutAdmin.cshtml" />
+    <Content Remove="wwwroot\favicon.ico" />
   </ItemGroup>
 
   <ItemGroup>
@@ -26,6 +27,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Areas\Admin\Controllers\images\" />
     <Folder Include="Areas\Admin\Data\" />
     <Folder Include="Areas\Admin\Models\" />
     <Folder Include="Controllers\" />

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tined\\source\\repos\\ClothingStoreMVC\\ClothingStoreMVC\\ClothingStoreMVC.csproj": {}
+    "C:\\Users\\tined\\work space\\csharp-entityframework-clothing-store\\ClothingStoreMVC\\ClothingStoreMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tined\\source\\repos\\ClothingStoreMVC\\ClothingStoreMVC\\ClothingStoreMVC.csproj": {
+    "C:\\Users\\tined\\work space\\csharp-entityframework-clothing-store\\ClothingStoreMVC\\ClothingStoreMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tined\\source\\repos\\ClothingStoreMVC\\ClothingStoreMVC\\ClothingStoreMVC.csproj",
+        "projectUniqueName": "C:\\Users\\tined\\work space\\csharp-entityframework-clothing-store\\ClothingStoreMVC\\ClothingStoreMVC.csproj",
         "projectName": "ClothingStoreMVC",
-        "projectPath": "C:\\Users\\tined\\source\\repos\\ClothingStoreMVC\\ClothingStoreMVC\\ClothingStoreMVC.csproj",
+        "projectPath": "C:\\Users\\tined\\work space\\csharp-entityframework-clothing-store\\ClothingStoreMVC\\ClothingStoreMVC.csproj",
         "packagesPath": "C:\\Users\\tined\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tined\\source\\repos\\ClothingStoreMVC\\ClothingStoreMVC\\obj\\",
+        "outputPath": "C:\\Users\\tined\\work space\\csharp-entityframework-clothing-store\\ClothingStoreMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tined\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,6 +59,10 @@
               "target": "Package",
               "version": "[2.1.2, )"
             },
+            "Microsoft.AspNetCore.StaticFiles": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "target": "Package",
               "version": "[2.1.14, )"
@@ -72,6 +76,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.14, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[2.1.1, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qyvrNmLivu2afvHkzO3nXHcYvZUGNcvXCs9VgHYAbcRX4me5ZhaLHENEgspiePCPGOcCARMpiLR3KjtTXmZBwg==",
+  "dgSpecHash": "4+0XPqU86dj406Mu8O2T7DHAJOvFSq0VC9SFlsrLh9+AJVwS5V6F7VWs06VCmrOrwVC/VNaqInF4XeHRzzqJTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tined\\source\\repos\\ClothingStoreMVC\\ClothingStoreMVC\\ClothingStoreMVC.csproj",
+  "projectFilePath": "C:\\Users\\tined\\work space\\csharp-entityframework-clothing-store\\ClothingStoreMVC\\ClothingStoreMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tined\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\tined\\.nuget\\packages\\microsoft.aspnetcore\\2.1.7\\microsoft.aspnetcore.2.1.7.nupkg.sha512",

@@ -1,0 +1,51 @@
+Product
+	-id
+	-name
+	-star
+	-price
+	-size
+	-color
+	-quantity
+	-idCate;
+Category
+	-id
+	-name;
+Users
+	-id
+	-firstName
+	-lastName
+	-phone
+	-address
+	-email
+	-password;
+Cart
+	-id
+	-idPro
+	-total
+Wishlist
+	-id
+	-idPro;
+Checkout
+	-id
+	-idUser
+	-country
+	-city
+	-state
+	-zipCode
+	-payment
+	-shipcode
+	-idcart;
+Brand
+	-id
+	-name;
+	-imgBrand
+Preview
+	-id
+	-idUser
+	-preview;
+Contact
+	-id
+	-name
+	-email
+	-subject
+	-message;

@@ -76,3 +76,41 @@ C:\Users\tined\work space\csharp-entityframework-clothing-store\ClothingStoreMVC
 C:\Users\tined\work space\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\ClothingStoreMVC.pdb
 C:\Users\tined\work space\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\ClothingStoreMVC.genruntimeconfig.cache
 C:\Users\tined\work space\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\ClothingStoreMVC.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\bin\Debug\netcoreapp2.1\ClothingStoreMVC.deps.json
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\bin\Debug\netcoreapp2.1\ClothingStoreMVC.runtimeconfig.json
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\bin\Debug\netcoreapp2.1\ClothingStoreMVC.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\bin\Debug\netcoreapp2.1\ClothingStoreMVC.dll
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\bin\Debug\netcoreapp2.1\ClothingStoreMVC.pdb
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\bin\Debug\netcoreapp2.1\ClothingStoreMVC.Views.dll
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\bin\Debug\netcoreapp2.1\ClothingStoreMVC.Views.pdb
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\ClothingStoreMVC.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\ClothingStoreMVC.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\ClothingStoreMVC.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\ClothingStoreMVC.RazorAssemblyInfo.cs
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\ClothingStoreMVC.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\ClothingStoreMVC.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\ClothingStoreMVC.TagHelpers.input.cache
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\ClothingStoreMVC.TagHelpers.output.cache
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\ClothingStoreMVC.RazorCoreGenerate.cache
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Create.g.cshtml.cs
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Delete.g.cshtml.cs
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Details.g.cshtml.cs
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Edit.g.cshtml.cs
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Index.g.cshtml.cs
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\ClothingStoreMVC.RazorTargetAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\ClothingStoreMVC.RazorTargetAssemblyInfo.cs
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\ClothingStoreMVC.Views.pdb
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\ClothingStoreMVC.dll
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\ClothingStoreMVC.pdb
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\ClothingStoreMVC.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.g.cshtml.cs

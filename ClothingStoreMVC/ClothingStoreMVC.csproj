@@ -5,6 +5,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Areas\Admin\Controllers\images\**" />
+    <Content Remove="Areas\Admin\Controllers\images\**" />
+    <EmbeddedResource Remove="Areas\Admin\Controllers\images\**" />
+    <None Remove="Areas\Admin\Controllers\images\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Remove="Areas\Admin\Views\layout\_LayoutAdmin.cshtml" />
     <Content Remove="wwwroot\favicon.ico" />
   </ItemGroup>
@@ -27,15 +34,14 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\Admin\Controllers\images\" />
+    <Folder Include="Areas\Admin\css\" />
     <Folder Include="Areas\Admin\Data\" />
     <Folder Include="Areas\Admin\Models\" />
     <Folder Include="Controllers\" />
     <Folder Include="Data\" />
     <Folder Include="Models\" />
-    <Folder Include="wwwroot\css\" />
     <Folder Include="wwwroot\images\" />
-    <Folder Include="wwwroot\js\" />
+    <Folder Include="wwwroot\js\Admin\" />
     <Folder Include="wwwroot\lib\bootstrap\" />
     <Folder Include="wwwroot\lib\bootstrap\dist\css\" />
     <Folder Include="wwwroot\lib\bootstrap\dist\js\" />
@@ -56,6 +62,14 @@
 
   <ItemGroup>
     <None Include="Areas\Admin\Views\layout\_LayoutAdmin.cshtml" />
+    <None Include="wwwroot\css\Admin\sb-admin-2.css" />
+    <None Include="wwwroot\css\Admin\sb-admin-2.min.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="Areas\Admin\Views\_ViewImports.cshtml">
+      <Pack>$(IncludeRazorContentInPack)</Pack>
+    </Content>
   </ItemGroup>
 
 </Project>

@@ -6,9 +6,21 @@
 
   <ItemGroup>
     <Compile Remove="Areas\Admin\Controllers\images\**" />
+    <Compile Remove="Areas\Admin\css\**" />
+    <Compile Remove="wwwroot\css\Admin\**" />
+    <Compile Remove="wwwroot\js\Admin\**" />
     <Content Remove="Areas\Admin\Controllers\images\**" />
+    <Content Remove="Areas\Admin\css\**" />
+    <Content Remove="wwwroot\css\Admin\**" />
+    <Content Remove="wwwroot\js\Admin\**" />
     <EmbeddedResource Remove="Areas\Admin\Controllers\images\**" />
+    <EmbeddedResource Remove="Areas\Admin\css\**" />
+    <EmbeddedResource Remove="wwwroot\css\Admin\**" />
+    <EmbeddedResource Remove="wwwroot\js\Admin\**" />
     <None Remove="Areas\Admin\Controllers\images\**" />
+    <None Remove="Areas\Admin\css\**" />
+    <None Remove="wwwroot\css\Admin\**" />
+    <None Remove="wwwroot\js\Admin\**" />
   </ItemGroup>
 
   <ItemGroup>
@@ -34,14 +46,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\Admin\css\" />
     <Folder Include="Areas\Admin\Data\" />
     <Folder Include="Areas\Admin\Models\" />
     <Folder Include="Controllers\" />
     <Folder Include="Data\" />
     <Folder Include="Models\" />
     <Folder Include="wwwroot\images\" />
-    <Folder Include="wwwroot\js\Admin\" />
     <Folder Include="wwwroot\lib\bootstrap\" />
     <Folder Include="wwwroot\lib\bootstrap\dist\css\" />
     <Folder Include="wwwroot\lib\bootstrap\dist\js\" />
@@ -62,8 +72,6 @@
 
   <ItemGroup>
     <None Include="Areas\Admin\Views\layout\_LayoutAdmin.cshtml" />
-    <None Include="wwwroot\css\Admin\sb-admin-2.css" />
-    <None Include="wwwroot\css\Admin\sb-admin-2.min.css" />
   </ItemGroup>
 
   <ItemGroup>

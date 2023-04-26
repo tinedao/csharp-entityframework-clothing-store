@@ -35,7 +35,6 @@ C:\Users\tined\source\repos\ClothingStoreMVC\ClothingStoreMVC\obj\Debug\netcorea
 C:\Users\tined\source\repos\ClothingStoreMVC\ClothingStoreMVC\obj\Debug\netcoreapp2.1\ClothingStoreMVC.csproj.CopyComplete
 C:\Users\tined\work space\csharp-entityframework-clothing-store\ClothingStoreMVC\bin\Debug\netcoreapp2.1\appsettings.Development.json
 C:\Users\tined\work space\csharp-entityframework-clothing-store\ClothingStoreMVC\bin\Debug\netcoreapp2.1\appsettings.json
-C:\Users\tined\work space\csharp-entityframework-clothing-store\ClothingStoreMVC\bin\Debug\netcoreapp2.1\Areas\Admin\lib\fontawesome-free\package.json
 C:\Users\tined\work space\csharp-entityframework-clothing-store\ClothingStoreMVC\bin\Debug\netcoreapp2.1\bundleconfig.json
 C:\Users\tined\work space\csharp-entityframework-clothing-store\ClothingStoreMVC\bin\Debug\netcoreapp2.1\ClothingStoreMVC.deps.json
 C:\Users\tined\work space\csharp-entityframework-clothing-store\ClothingStoreMVC\bin\Debug\netcoreapp2.1\ClothingStoreMVC.runtimeconfig.json
@@ -114,3 +113,4 @@ C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\ob
 C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\ClothingStoreMVC.pdb
 C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\ClothingStoreMVC.csproj.CopyComplete
 C:\Users\ADMIN\Desktop\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.g.cshtml.cs
+C:\Users\tined\work space\csharp-entityframework-clothing-store\ClothingStoreMVC\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
